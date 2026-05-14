@@ -2,7 +2,7 @@
 
 ## Student Information
 **Student Name:** Mark Bryan A. Mantilla  
-**Course & Section:** BSIT-3A
+**Course & Section:** [BSIT-3A]
 **Subject Name:** Systems Integration and Architecture 2 (SIA 2) & Application Development  
 
 ---
