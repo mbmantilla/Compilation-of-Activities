@@ -31,6 +31,9 @@ Implemented server-side form handling and validation using Laravel. The system c
 ## Activity 5 – Building and Integrating a Laravel Application with APIs
 Integrated third-party APIs into a Laravel application to fetch and display real-time environmental data for selected locations. This activity demonstrated API consumption, data handling, and frontend presentation.
 
+## Final Project – "Design and Development of a Web-Based Mantilla Funeral Reservation System"
+The final project is a web-based platform designed to make funeral service reservations more organized, accessible, and efficient. it allows clients to view available services, submit reservation requests, and communicate booking details, while helping administrators manage reservations, client information, and service records through a centralized system.
+
 ---
 
 # Application Development Activities
